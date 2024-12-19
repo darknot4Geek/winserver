@@ -2,7 +2,7 @@
 Import-Module ActiveDirectory
 
 # Especificar la ruta del archivo Excel
-$excelFilePath = "C:\Users\Administrador\Desktop\ITJUNIORS.xlsx"
+$excelFilePath = "C:\Users\Administrador\Desktop\ITJUNIORS(1).xlsx"
 
 # Cargar el archivo Excel
 $usersData = Import-Excel -Path $excelFilePath
