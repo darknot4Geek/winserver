@@ -1,0 +1,6 @@
+New-ADOrganizationalUnit -Name "ITjuniors" -Path "DC=CiberDev,DC=local"  
+New-ADOrganizationalUnit -Name "ITseniors" -Path "DC=CiberDev,DC=local"
+New-ADOrganizationalUnit -Name "RRHH" -Path "DC=CiberDev,DC=local"
+New-ADOrganizationalUnit -Name "New Developments" -Path "DC=CiberDev,DC=local"
+New-ADOrganizationalUnit -Name "Administration" -Path "DC=CiberDev,DC=local"
+New-ADOrganizationalUnit -Name "Production" -Path "DC=CiberDev,DC=local"
